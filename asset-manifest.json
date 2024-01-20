@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finnish-company/static/css/main.a8cc3d47.css",
+    "main.js": "/finnish-company/static/js/main.5f566426.js",
+    "static/js/787.e03a5c29.chunk.js": "/finnish-company/static/js/787.e03a5c29.chunk.js",
+    "static/media/logo_transparent.png": "/finnish-company/static/media/logo_transparent.50b88cee76744c60f46e.png",
+    "index.html": "/finnish-company/index.html",
+    "main.a8cc3d47.css.map": "/finnish-company/static/css/main.a8cc3d47.css.map",
+    "main.5f566426.js.map": "/finnish-company/static/js/main.5f566426.js.map",
+    "787.e03a5c29.chunk.js.map": "/finnish-company/static/js/787.e03a5c29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cc3d47.css",
+    "static/js/main.5f566426.js"
+  ]
+}
