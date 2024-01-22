@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/vytahtitapahtumatoy/static/css/main.76f96c84.css",
-    "main.js": "/vytahtitapahtumatoy/static/js/main.eead5199.js",
+    "main.css": "/vytahtitapahtumatoy/static/css/main.003e2842.css",
+    "main.js": "/vytahtitapahtumatoy/static/js/main.c09dce7e.js",
     "static/js/787.e03a5c29.chunk.js": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js",
     "static/media/logo_transparent.png": "/vytahtitapahtumatoy/static/media/logo_transparent.50b88cee76744c60f46e.png",
     "index.html": "/vytahtitapahtumatoy/index.html",
-    "main.76f96c84.css.map": "/vytahtitapahtumatoy/static/css/main.76f96c84.css.map",
-    "main.eead5199.js.map": "/vytahtitapahtumatoy/static/js/main.eead5199.js.map",
+    "main.003e2842.css.map": "/vytahtitapahtumatoy/static/css/main.003e2842.css.map",
+    "main.c09dce7e.js.map": "/vytahtitapahtumatoy/static/js/main.c09dce7e.js.map",
     "787.e03a5c29.chunk.js.map": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76f96c84.css",
-    "static/js/main.eead5199.js"
+    "static/css/main.003e2842.css",
+    "static/js/main.c09dce7e.js"
   ]
 }
