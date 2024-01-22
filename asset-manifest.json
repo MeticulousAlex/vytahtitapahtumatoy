@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/vytahtitapahtumatoy/static/css/main.5442601c.css",
-    "main.js": "/vytahtitapahtumatoy/static/js/main.8aadb69e.js",
+    "main.js": "/vytahtitapahtumatoy/static/js/main.fceebbe1.js",
     "static/js/787.e03a5c29.chunk.js": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js",
     "static/media/logo_transparent.png": "/vytahtitapahtumatoy/static/media/logo_transparent.50b88cee76744c60f46e.png",
     "index.html": "/vytahtitapahtumatoy/index.html",
     "main.5442601c.css.map": "/vytahtitapahtumatoy/static/css/main.5442601c.css.map",
-    "main.8aadb69e.js.map": "/vytahtitapahtumatoy/static/js/main.8aadb69e.js.map",
+    "main.fceebbe1.js.map": "/vytahtitapahtumatoy/static/js/main.fceebbe1.js.map",
     "787.e03a5c29.chunk.js.map": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5442601c.css",
-    "static/js/main.8aadb69e.js"
+    "static/js/main.fceebbe1.js"
   ]
 }
