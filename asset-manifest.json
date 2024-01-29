@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vytahtitapahtumatoy/static/css/main.61022cae.css",
-    "main.js": "/vytahtitapahtumatoy/static/js/main.7dfdd691.js",
+    "main.css": "/vytahtitapahtumatoy/static/css/main.ae1b1206.css",
+    "main.js": "/vytahtitapahtumatoy/static/js/main.6501d04d.js",
     "static/js/787.e03a5c29.chunk.js": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js",
     "static/media/logo_transparent.png": "/vytahtitapahtumatoy/static/media/logo_transparent.50b88cee76744c60f46e.png",
     "static/media/logo.jpg": "/vytahtitapahtumatoy/static/media/logo.13dc9e71a21a03aa1996.jpg",
     "index.html": "/vytahtitapahtumatoy/index.html",
     "static/media/cancel_button.svg": "/vytahtitapahtumatoy/static/media/cancel_button.2ceb783afbab75916ddc.svg",
-    "main.61022cae.css.map": "/vytahtitapahtumatoy/static/css/main.61022cae.css.map",
-    "main.7dfdd691.js.map": "/vytahtitapahtumatoy/static/js/main.7dfdd691.js.map",
+    "main.ae1b1206.css.map": "/vytahtitapahtumatoy/static/css/main.ae1b1206.css.map",
+    "main.6501d04d.js.map": "/vytahtitapahtumatoy/static/js/main.6501d04d.js.map",
     "787.e03a5c29.chunk.js.map": "/vytahtitapahtumatoy/static/js/787.e03a5c29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61022cae.css",
-    "static/js/main.7dfdd691.js"
+    "static/css/main.ae1b1206.css",
+    "static/js/main.6501d04d.js"
   ]
 }
