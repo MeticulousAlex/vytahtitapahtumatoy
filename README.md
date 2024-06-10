@@ -1,44 +1,44 @@
 # Vytahtitapahtumat Oy ![Static Badge](https://img.shields.io/badge/Completed-grass)
 
-Простой сайт разработанный в презентационных целях, для потенциальной компании на университетской бизнес ярмарке. Дизайн страницы согласовывался напрямую с заказчиком, без макета.
+Simple website developed in presentational purposes for potential company on an university's business fair. Design was negotiated directly with the client (Layout wasn't provided).
 
-## Технологии
+## Technologies
 - HTML
 - CSS
 - React
 - GitHub Pages
-- Адаптивная верстка
+- Adaptive layout
 
-## Функционал
-- Возможность выбора языка интерфейса (Fi / En)
-- Восстановление выбранного языка интерфейса при повторном посещении страницы
-- Всплывающее меню уведомлений о мероприятиях
-- Навигация по странице
+## Functionality
+- Possibility to choose language (Fi / En)
+- Chosen language is restored when page is visited again
+- Pop-up notification about events
+- Page navigation
 
-## Установка
+## Installation
 
-:heavy_exclamation_mark: Убедитесь, что на вашем компьютере установлен Node.js
+:heavy_exclamation_mark: Make sure you have Node.js installed on your computer
 
-### Запуск проекта
+### Launch of the project
 ```
-//клонируйте репозиторий
+//Clone the repository
 git clone https://github.com/MeticulousAlex/vytahtitapahtumatoy.git
 
-//перейдите в папку проекта
+//Go to the project's folder
 cd vytahtitapahtumatoy
 
-//установите зависимости
+//Install dependencies
 npm install
 
-//запустите проект
+//Launch the project
 npm start
 ```
 
-## Ссылка на опубликованный проект
+## Link to the deployed project
 
 Vytahtitapahtumat Oy: https://meticulousalex.github.io/vytahtitapahtumatoy
 
-## Обратная связь
+## Feedback
 
-Если вы находите проект интересным или у вас есть какие либо комментарии, не стесняйтесь связаться со мной через aleksandr.smelov.web@gmail.com
+If you found this project interesting or ou have any comments, please, dont't hesitate to contact me at aleksandr.smelov.web@gmail.com.
 
