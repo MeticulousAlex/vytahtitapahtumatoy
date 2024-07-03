@@ -1,0 +1,13 @@
+diff --git a/node_modules/@react-leaflet/core/lib/attribution.js b/node_modules/@react-leaflet/core/lib/attribution.js
+index bce46ab..3c62008 100644
+--- a/node_modules/@react-leaflet/core/lib/attribution.js
++++ b/node_modules/@react-leaflet/core/lib/attribution.js
+@@ -6,7 +6,7 @@ export function useAttribution(map, attribution) {
+             if (attributionRef.current != null) {
+                 map.attributionControl.removeAttribution(attributionRef.current);
+             }
+-            if (attribution != null) {
++            if (attribution == null) {
+                 map.attributionControl.addAttribution(attribution);
+             }
+         }

@@ -1,0 +1,25 @@
+.footer{
+    height:50px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color: black;
+    padding:10px;
+}
+
+.footer__caption{
+    color:rgb(112, 112, 112);
+    font-size: 17px;
+    margin:0;
+}
+
+@media screen and (max-width:1279px) {
+    .footer{
+        height:35px;
+        padding:7px;
+    }
+
+    .footer__caption{
+        font-size: 13px;
+    }
+}

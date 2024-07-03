@@ -1,20 +1,30 @@
 .header{
     display: flex;
+    position:absolute;
+    top:50px;
     width:100%;
-    height: 60px;
     background-color: #0d0d0d;
     align-items: center;
     justify-content: center;
+    border-style:solid;
+    border-right:none;
+    border-left:none;
+    border-width:1px;
+    border-image: linear-gradient(to right, #7a6844, #e6e4a7, #7a6844) 1 8%;
 }
 
 .header__navigation{
+    height: 75px;
     display:flex;
+    align-items: center;
     width:50%;
-    justify-content: space-between
+    justify-content: center;
+    gap:20%;
 }
 
 .header__navigation-link{
     text-decoration: none;
+    font-size: 19px;
     color: white;
     transition: opacity linear 0.15s;
 }
@@ -22,3 +32,118 @@
 .header__navigation-link:hover{
     opacity: 0.7;
 }
+
+.header__language-toggle{
+    position:absolute;
+    right:5%;
+    top:11.5px;
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.header__language-icon{
+    padding-right:5px;
+    object-fit: contain;
+    border-right: 1px solid white;
+    margin:0;
+}
+
+.header__language{
+    color:white;
+    cursor:pointer;
+    transition:opacity linear 0.2s;
+}
+
+.header__language_underlined{
+    border-bottom:1px solid rgba(255,255,255,0.5);
+}
+
+.header__language:hover{
+    opacity:0.7;
+}
+
+.account-tab__menu-button{
+    position: absolute;
+    right:0;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 20;
+    border: 0;
+    background: transparent;
+    border-radius: 0;
+    width: 44px;
+    padding:11px 0;
+    cursor: pointer;
+    pointer-events: auto;
+    transition: opacity linear 0.1s;
+  }
+  
+  .account-tab__menu-button:hover{
+    opacity:0.8
+  }
+
+  .account-tab__icon-bar {
+    display: block;
+    width: 28px;
+    height: 3px;
+    background: #aaa;
+    transition: .3s;
+  }
+
+  .account-tab__icon-bar + .account-tab__icon-bar {
+    margin-top: 7px;
+  }
+  
+  .account-tab__icon-bar_opened:nth-of-type(1) {
+    transform: translate3d(0,10px,0) rotate(45deg);
+  }
+  
+  .account-tab__icon-bar_opened:nth-of-type(2) {
+    opacity: 0;
+  }
+  
+  .account-tab__icon-bar_opened:nth-of-type(3) {
+    transform: translate3d(0,-10px,0) rotate(-45deg);
+  }
+
+  @media screen and (max-width:768px){
+
+    .header__language-toggle{
+      display: none;
+    }
+
+    .header__navigation{
+      display:none;
+    }
+
+    .header{
+      height:77px;
+    }
+
+    .account-tab__menu-button{
+        display: flex;
+        width: 40px;
+        margin-right:20px;
+      }
+
+      .account-tab__icon-bar{
+        width:22px;
+        height:2.5px;
+      }
+    
+      .account-tab__icon-bar + .account-tab__icon-bar {
+        margin-top: 6.5px;
+      }
+    
+      .account-tab__icon-bar_opened:nth-of-type(1) {
+        transform: translate3d(0,8.5px,0) rotate(45deg);
+      }
+    
+      .account-tab__icon-bar_opened:nth-of-type(3) {
+        transform: translate3d(0,-8.5px,0) rotate(-45deg);
+      }
+  }
+
