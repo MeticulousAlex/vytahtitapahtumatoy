@@ -1,6 +1,6 @@
 # Vytahtitapahtumat Oy ![Static Badge](https://img.shields.io/badge/Completed-grass)
 
-Simple website developed in presentational purposes for potential company on an university's business fair. Design was negotiated directly with the client (Layout wasn't provided).
+This SP application was developed for presentational purposes to represent a potential (non-existent) party-organizing company at a university's business fair.
 
 ## Technologies
 - HTML
