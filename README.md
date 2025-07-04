@@ -17,7 +17,7 @@
 
 ## Functionality / Функционал
 - Possibility to choose language (Fi / En)
-- Chosen language is restored when page is visited again
+- Chosen language is restored when the page is visited again
 - Pop-up notification about events
 - Page navigation
 
@@ -49,6 +49,6 @@ Vytahtitapahtumat Oy: https://meticulousalex.github.io/vytahtitapahtumatoy
 
 ## Feedback / Обратная связь
 
-- If you found this project interesting or you have any comments, please, dont't hesitate to contact me at aleksandr.smelov.web@gmail.com.
-- Если вам интресен этот рпоет или у вас есть комментарии, пожалуйста не стесняйтесь связаться со мной aleksandr.smelov.web@gmail.com.
+- If you found this project interesting or you have any comments, please don't hesitate to contact me at aleksandr.smelov.web@gmail.com.
+- Если вам интресен этот проект или у вас есть комментарии, пожалуйста не стесняйтесь связаться со мной aleksandr.smelov.web@gmail.com.
 
